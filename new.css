@@ -1,0 +1,26 @@
+.youtube{
+    display: flex;
+    justify-content: space-evenly;
+}   
+
+
+#displayed-video{
+    margin-right: 100px;
+
+}
+
+.list{
+    display: flex;
+
+}
+
+.list{
+    min-height:20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#list-one{
+    display: flex;
+}
